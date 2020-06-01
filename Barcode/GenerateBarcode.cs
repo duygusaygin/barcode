@@ -68,7 +68,7 @@ namespace Barcode
 
         private void GenerateBarcode_Load(object sender, EventArgs e)
         {
-
+ //dncjsd
         }
 
         private void button4_Click(object sender, EventArgs e)
